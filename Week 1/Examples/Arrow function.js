@@ -1,4 +1,0 @@
-hello = () =>
-{
-    return "Hello World!";
-}
